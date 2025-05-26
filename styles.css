@@ -45,7 +45,7 @@ h1 {
     background-color: #1C1C1C;
     color: #FFD700;
     border: 2px solid #FFD700;
-    cursor: pointer;
+   
 }
 #new-game{
     margin-top: 50px;
@@ -55,7 +55,7 @@ h1 {
     background-color: #1C1C1C;
     color: #FFD700;
     border: 2px solid #FFD700;
-    cursor: pointer;
+    
 
 }
 .msg-container p{
