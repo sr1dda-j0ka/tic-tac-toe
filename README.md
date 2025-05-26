@@ -23,6 +23,8 @@ This is a two-player game playable on the same device with a clean UI and respon
 - 👆 Clickable, interactive buttons
 
 ---
+## Live Demo
+- https://sr1dda-j0ka.github.io/Tic-Tac-Toe/
 
 ## Author
 -Made with ❤️ by Sridda Joka
